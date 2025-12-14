@@ -1,6 +1,7 @@
 {
   "name": "fb-panel-command-bot",
   "version": "1.0.0",
+  "description": "Panel based Facebook command bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -8,7 +9,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "multer": "1.4.5-lts.1"
+    "multer": "1.4.5-lts.1",
     "fca-mafiya": "latest"
   }
 }
